@@ -7,4 +7,6 @@ page_title: Home
 layout: post
 ---
 
-This is where the TTS Accessibility Guild will publish accessibility training demo content. 
+This is the home for the TTS Accessibility Guild’s training demo content. 
+
+- [Using a screenreader demo page]({{site.baseurl}}/screenreader/)
