@@ -5,13 +5,17 @@ permalink: /screenreader/
 layout: post
 ---
 
-Welcome to using a screen reader to access a website! As you have probably figured out, this page can only be read by using a screen reader (or by reading the source code).
-Quora user Nick Steele estimated that [about 4.4 million people in the USA use a screen reader](https://ux.stackexchange.com/a/119596). If you’re interested in a more detailed breakdown of peoples’ preferences, [WebAIM surveyed 1465 screen reader users](https://webaim.org/projects/screenreadersurvey5/) about their use of screen readers. If you’re feeling brave, try using your screen reader to read both of the pages linked previously.
-
-Now that you’ve done some reading, let’s try filling out a form using your screen reader! The form is visually hidden directly after this section and will be available a screen reader through your broswer. No peeking!
+Welcome to using a screen reader to access a website! The contents after this paragraph are visually hidden and are available when using a screen reader with your broswer. No peeking!
 
 <div class="usa-sr-only">
-  <h2>Screen Reader Demo Form - It doesn't submit anything</h2>
+
+As you have probably figured out, this page can only be read by using a screen reader (or by reading the source code).
+
+Quora user Nick Steele estimated that [about 4.4 million people in the USA use a screen reader](https://ux.stackexchange.com/a/119596). If you’re interested in a more detailed breakdown of peoples’ preferences, [WebAIM surveyed 1465 screen reader users](https://webaim.org/projects/screenreadersurvey5/) about their use of screen readers. If you’re feeling brave, try using your screen reader to read both of the pages linked previously.
+
+Now that you’ve done some reading, let’s try filling out a form using your screen reader! 
+
+<h2>Screen Reader Demo Form - It doesn't submit anything</h2>
   <form action="">
     <input name="Name" type="text" aria-label="name" id="name">
     <input name="Email address" type="text" aria-label="email" id="email">
