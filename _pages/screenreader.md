@@ -5,15 +5,25 @@ permalink: /screenreader/
 layout: post
 ---
 
-## Important Note
+Welcome to using a screen reader to access a website! As you have probably figured out, this page can only be read by using a screen reader (or by reading the source code).
+Quora user Nick Steele estimated that [about 4.4 million people in the USA use a screen reader](https://ux.stackexchange.com/a/119596). If you’re interested in a more detailed breakdown of peoples’ preferences, [WebAIM surveyed 1465 screen reader users](https://webaim.org/projects/screenreadersurvey5/) about their use of screen readers. If you’re feeling brave, try using your screen reader to read both of the pages linked previously.
 
-This page is intentionally blank from a visual perspective. Please use your screen reader to find the visually hidden content on the page. You may be asked about it later!
+Now that you’ve done some reading, let’s try filling out a form using your screen reader! The form is visually hidden directly after this section and will be available a screen reader through your broswer. No peeking!
 
 <div class="usa-sr-only">
-  <h3>Three Important Giraffe Facts</h3>
-    <ol>
-      <li>A giraffe will steal your banana.</li>
-      <li>Giraffes only sleep 5 minutes a day.</li>
-      <li>A group of giraffes is a tower.</li>
-    </ol>
+  <h2>Screen Reader Demo Form - It doesn't submit anything</h2>
+  <form action="">
+    <input name="Name" type="text" aria-label="name" id="name">
+    <input name="Email address" type="text" aria-label="email" id="email">
+    <select name="Favorite color" aria-label="What’s your favorite color?" id="color">
+      <option value="red">Red</option>
+      <option value="orange">Orange</option>
+      <option value="yellow">Yellow</option>
+      <option value="green">Green</option>
+      <option value="blue">Blue</option>
+      <option value="purple">Purple</option>
+    </select>
+    <textarea name="What’s your favorite movie and why?" id="movie">Tell us about your favorite movie.</textarea> 
+    <button type="button" onclick="alert('Thanks for filling out this form! It doesn’t send any data.')">Submit</button>
+  </form>
 </div>
