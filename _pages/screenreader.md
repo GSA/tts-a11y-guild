@@ -5,7 +5,7 @@ permalink: /screenreader/
 layout: post
 ---
 
-Welcome to using a screen reader to access a website! The contents after this paragraph are visually hidden and are available when using a screen reader with your broswer. No peeking!
+Welcome to using a screen reader to access a website! The contents after this paragraph are visually hidden and are available when using a screen reader with your browser. No peeking!
 
 <div class="usa-sr-only" markdown="1">
 
