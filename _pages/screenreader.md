@@ -7,7 +7,7 @@ layout: post
 
 Welcome to using a screen reader to access a website! The contents after this paragraph are visually hidden and are available when using a screen reader with your broswer. No peeking!
 
-<div class="usa-sr-only">
+<div class="usa-sr-only" markdown="1">
 
 As you have probably figured out, this page can only be read by using a screen reader (or by reading the source code).
 
@@ -15,7 +15,8 @@ Quora user Nick Steele estimated that [about 4.4 million people in the USA use a
 
 Now that you’ve done some reading, let’s try filling out a form using your screen reader! 
 
-<h2>Screen Reader Demo Form - It doesn't submit anything</h2>
+<h2>Screen Reader Demo Form - It doesn't submit anything.</h2>
+<p>Please create a Google doc for your answers to the following questions and save them in the homework folder for this week. The form is for your practice with a screen reader only.</p>
   <form action="">
     <input name="Name" type="text" aria-label="name" id="name">
     <input name="Email address" type="text" aria-label="email" id="email">
@@ -27,7 +28,7 @@ Now that you’ve done some reading, let’s try filling out a form using your s
       <option value="blue">Blue</option>
       <option value="purple">Purple</option>
     </select>
-    <textarea name="What’s your favorite movie and why?" id="movie">Tell us about your favorite movie.</textarea> 
+    <textarea name="What’s your favorite movie and why?" id="movie"></textarea> 
     <button type="button" onclick="alert('Thanks for filling out this form! It doesn’t send any data.')">Submit</button>
   </form>
 </div>
