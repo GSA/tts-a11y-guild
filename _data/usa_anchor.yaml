@@ -2,7 +2,7 @@
 # See usa_anchor.html for the template
 
 anchor_data:
-  - site_name: TTS Accessibility Guild Training Demos
+  - site_name: TTS Accessibility Guild Training
     site_email: 18F@gsa.gov
     site_url: https://accessibility.18f.gov
     site_about: https://accessibility.18f.gov
