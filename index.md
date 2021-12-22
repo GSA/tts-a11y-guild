@@ -7,7 +7,7 @@ page_title: Home
 layout: post
 ---
 
-This is the home for the TTS Accessibility Guild’s training content. 
+This is the home for the [TTS Accessibility Guild’s](https://handbook.tts.gsa.gov/training-and-development/working-groups-and-guilds-101/#accessibility) training content. 
 
 The guild has developed a series of training sessions to help product teams understand digital accessibility and develop reliable, routine testing practices beyond running automated scans. This training is not meant to be a substitute for thorough accessibility auditing of digital products. However, these materials serve as a solid introduction to accessibility concepts and as a pragmatic approach to accessibility testing that any member of a product team can perform regularly. 
 
@@ -24,10 +24,10 @@ The following table contains a listing with links to the slide decks for the tra
 | 05 | [Inputting information (pptx)]({{site.baseurl}}training_files/ppt/05_Inputting_information.pptx) |
 | 06 | [Scenario-based testing (pptx)]({{site.baseurl}}training_files/ppt/06_Scenario-based_testing.pptx) |
 | 07 | [Design choices (pptx)]({{site.baseurl}}training_files/ppt/07_Design_choices.pptx) |
-| 08 | Recap and final (pptx) |
+| 08 | [Recap and final (pptx)]({{site.baseurl}}/training_files/ppt/08_Recap_and_final.pptx) |
 
 ## Supplemental files
 
 * [VoiceOver basics - a cheat sheet (pdf)]({{site.baseurl}}/training_files/doc/VoiceOver_basics_a_cheat_sheet.pdf) - referenced in module **03 - Assistive technology**.
-* [Using a screenreader demo page]({{site.baseurl}}/screenreader/)
+* [Using a screenreader demo page]({{site.baseurl}}/screenreader/) - part of the homework for module **03 - Assistive technology**
 * [Final exam (doc)]({{site.baseurl/training_files/doc/Final_exam.docx}}) - referenced in module **08 - Recap and final**.
