@@ -20,3 +20,4 @@ group :jekyll_plugins do
 end
 
 gem "webrick", "~> 1.7"
+gem 'mini_racer', '< 0.5.0'
