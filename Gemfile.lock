@@ -80,10 +80,7 @@ DEPENDENCIES
   jekyll (~> 4.2.1)
   jekyll-feed (~> 0.12)
   jekyll-sitemap
-  tzinfo (~> 1.2)
-  tzinfo-data
   uswds-jekyll (~> 5.4)
-  wdm (~> 0.1.1)
 
 BUNDLED WITH
    2.1.4
