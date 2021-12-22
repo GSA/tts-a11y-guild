@@ -72,6 +72,7 @@ GEM
       jekyll (>= 4.0, < 5)
       jekyll-autoprefixer
       mini_racer
+    webrick (1.7.0)
 
 PLATFORMS
   ruby
@@ -81,6 +82,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.12)
   jekyll-sitemap
   uswds-jekyll (~> 5.4)
+  webrick (~> 1.7)
 
 BUNDLED WITH
-   2.1.4
+   2.3.0
