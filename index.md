@@ -21,13 +21,13 @@ The following table contains a listing with links to the slide decks for the tra
 | 02 | [Well-structured HTML (pptx)]({{site.baseurl}}/training_files/ppt/02_Well-structured_HTML.pptx) |
 | 03 | [Assistive technology (pptx)]({{site.baseurl}}/training_files/ppt/03_Assistive_technology.pptx) |
 | 04 | [Media (pptx)]({{site.baseurl}}/training_files/ppt/04_Media.pptx) |
-| 05 | [Inputting information (pptx)]({{site.baseurl}}training_files/ppt/05_Inputting_information.pptx) |
-| 06 | [Scenario-based testing (pptx)]({{site.baseurl}}training_files/ppt/06_Scenario-based_testing.pptx) |
-| 07 | [Design choices (pptx)]({{site.baseurl}}training_files/ppt/07_Design_choices.pptx) |
+| 05 | [Inputting information (pptx)]({{site.baseurl}}/training_files/ppt/05_Inputting_information.pptx) |
+| 06 | [Scenario-based testing (pptx)]({{site.baseurl}}/training_files/ppt/06_Scenario-based_testing.pptx) |
+| 07 | [Design choices (pptx)]({{site.baseurl}}/training_files/ppt/07_Design_choices.pptx) |
 | 08 | [Recap and final (pptx)]({{site.baseurl}}/training_files/ppt/08_Recap_and_final.pptx) |
 
 ## Supplemental files
 
 * [VoiceOver basics - a cheat sheet (pdf)]({{site.baseurl}}/training_files/doc/VoiceOver_basics_a_cheat_sheet.pdf) - referenced in module **03 - Assistive technology**.
 * [Using a screenreader demo page]({{site.baseurl}}/screenreader/) - part of the homework for module **03 - Assistive technology**
-* [Final exam (doc)]({{site.baseurl/training_files/doc/Final_exam.docx}}) - referenced in module **08 - Recap and final**.
+* [Final exam (doc)]({{site.baseurl}}/training_files/doc/Final_exam.docx}}) - referenced in module **08 - Recap and final**.
