@@ -25,3 +25,4 @@ The following table contains a listing with links to the slide decks for the tra
 ## Supplemental files
 
 * [VoiceOver basics - a cheat sheet (pdf)]({{site.baseurl}}/training_files/doc/VoiceOver_basics_a_cheat_sheet.pdf) - referenced in module **03 - Assistive technology**.
+* [Final exam (doc)]({{site.baseurl/training_files/doc/Final_exam.docx}}) - referenced in module **08 - Recap and final**.
