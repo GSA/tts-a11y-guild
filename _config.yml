@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: TTS Accessibility Training Demos
+title: TTS Accessibility Training 
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This site contains demonstration pages which are part of the TTS Accessibility Training program. Some pages may be made intentionally with accessibility issues in order to facilitate learning and skills development. 
+  This site contains training files and demonstration pages which are part of the TTS Accessibility Training program. Some pages are intentionally presented with accessibility issues in order to facilitate learning and skills development. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
